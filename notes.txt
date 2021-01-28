@@ -1,1 +1,4 @@
 this is my firs test notes text file
+
+this my new project
+working on macys mobile app
